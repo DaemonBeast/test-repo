@@ -1,0 +1,40 @@
+{
+    "versions": {
+        "1.2.5": {
+            "among_us_versions": ["2022.3.29"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.2.5/Reactor.dll"
+        },
+        "1.2.4": {
+            "among_us_versions": ["2021.12.15", "2022.2.8", "2022.2.23"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.2.4/Reactor.dll"
+        },
+        "1.2.3": {
+            "among_us_versions": ["2021.12.15", "2022.2.8", "2022.2.23"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.2.3/Reactor.dll"
+        },
+        "1.2.2": {
+            "among_us_versions": ["2021.12.15", "2022.2.8", "2022.2.23"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.2.2/Reactor.dll"
+        },
+        "1.2.1": {
+            "among_us_versions": ["2021.12.15", "2022.2.8"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.2.1/Reactor.dll"
+        },
+        "1.2.0": {
+            "among_us_versions": ["2021.12.15"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.2.0/Reactor.dll"
+        },
+        "1.2.0-rc.1": {
+            "among_us_versions": ["2021.11.9"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.2.0-rc.1/Reactor.dll"
+        },
+        "1.1.0": {
+            "among_us_versions": ["2021.6.30"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.1.0/Reactor.dll"
+        },
+        "1.0.0-rc.1": {
+            "among_us_versions": ["2021.6.15"],
+            "download_link": "https://github.com/NuclearPowered/Reactor/releases/download/1.0.0-rc.1/Reactor.dll"
+        }
+    }
+}
